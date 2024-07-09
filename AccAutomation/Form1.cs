@@ -11,7 +11,7 @@ namespace AccAutomation
             InitializeComponent();
 
         }
-      public static  SqlConnection baglanti = new SqlConnection(@"Data Source = DESKTOP-0SPOTJ5; Initial Catalog = DB_AccAutomation; Integrated Security = True");
+      public static  SqlConnection baglanti = new SqlConnection(@"YourSQLcode");
         
         private void Form1_Load(object sender, EventArgs e)
         {
@@ -42,7 +42,7 @@ namespace AccAutomation
                 user = textBox1.Text;
                 pass = textBox2.Text;
 
-                SqlCommand komut = new SqlCommand("select * from table_login where username='" + user + "' and password='" + pass + "'", baglanti);
+                SqlCommand komut = new SqlCommand("select * from LOGIN_TABLE_NAME where username='" + user + "' and password='" + pass + "'", baglanti);
                 SqlDataReader oku = komut.ExecuteReader();
                 if (oku.Read())
                 {
