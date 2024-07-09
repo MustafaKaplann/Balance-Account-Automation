@@ -1,0 +1,196 @@
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\S.E\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CopyComplete
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\emirc\OneDrive\Masaüstü\CurrentAccountAutomation - Kopya\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\1 - Kopya\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\BalanceAutomation_FinalProject\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.exe
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.deps.json
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.runtimeconfig.json
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.AssemblyReference.cache
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.EnterDataForm.resources
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form1.resources
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Form2.resources
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.OldDataForm.resources
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.Properties.Resources.resources
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.GenerateResource.cache
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfoInputs.cache
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.AssemblyInfo.cs
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.csproj.CoreCompileInputs.cache
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutom.7F58FD4A.Up2Date
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\refint\AccAutomation.dll
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.pdb
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\AccAutomation.genruntimeconfig.cache
+C:\Users\mustafa\Desktop\MUSTAFA\BalanceAutomation_FinalProject (Mustafa Kaplan)\AccAutomation\obj\Debug\net8.0-windows\ref\AccAutomation.dll
